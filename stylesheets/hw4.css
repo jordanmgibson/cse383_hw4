@@ -1,7 +1,12 @@
 #div1 {
+<<<<<<< HEAD
     top: 200px;
     width: 50%;
     height: 500px;
+=======
+    top: 100px;
+    width: 100%;
+>>>>>>> cc45e3f3f37031b5ff4258eb9aad810729d443f0
     margin: 0 25% 0 25%;
     border: 15px dashed blue;
     padding: 10px;
