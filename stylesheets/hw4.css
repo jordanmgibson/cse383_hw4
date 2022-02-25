@@ -5,3 +5,13 @@
     margin: 0 25% 0 25%;
     border: 5px dotted blue;
 }
+#div1 h1 {
+    color: red;
+    text-decoration: underline;
+}
+#div1 .title {
+    text-align: center;
+}
+ul {
+    color: blue;
+}
