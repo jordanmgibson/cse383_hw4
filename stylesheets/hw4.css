@@ -10,12 +10,14 @@
 	width: 10%;
 }
 #div1 h1 {
-    color: red;
-    text-decoration: underline;
+    text-decoration: underlinee;
 }
 #div1 .title {
     text-align: center;
+    color: red;
 }
 ul {
     color: blue;
+    margin: auto;
+    text-align: center;
 }
