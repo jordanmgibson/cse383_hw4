@@ -1,7 +1,11 @@
 #div1 {
-    top: 100px;
-    width: 100%;
+    top: 200px;
+    width: 50%;
     height: 500px;
     margin: 0 25% 0 25%;
-    border: 5px dotted blue;
+    border: 15px dashed blue;
+    padding: 10px;
+}
+#div2 img {
+	width: 10%;
 }
